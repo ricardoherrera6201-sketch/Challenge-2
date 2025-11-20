@@ -1,0 +1,10 @@
+
+Resultados del modelo (Logistic Regression) - Wine Quality (binaria quality>=7):
+ - AUC (ROC): 0.8617
+ - Accuracy:  0.8618
+ - F1-score:  0.8436
+ - Precision: 0.8898
+ - Recall:    0.9576
+ - Train size: 1324
+ - Test size:  275
+ - Umbral para 'buena' calidad: >=7
