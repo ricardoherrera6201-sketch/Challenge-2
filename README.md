@@ -54,7 +54,3 @@ Interpretación: El modelo clasifica de forma aceptable, aunque puede mejorar de
 - La regresión logística funciona bien como baseline.  
 - El modelo podría mejorar con Random Forest o tuning de hiperparámetros.
 
----
-
-## 8. Archivos del Repositorio
-
